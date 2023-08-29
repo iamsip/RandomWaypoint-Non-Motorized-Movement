@@ -1,4 +1,4 @@
-# Randowm Waypoint Non Motorized Movement
+# Random Waypoint Non Motorized Movement
 
 A MATLAB function for simulating the mobility model of a node using the Random Waypoint Model. 
 
